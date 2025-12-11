@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Mukha | Hub Portfolio</title>
+  <desc id="desc">Personal hub for engineering, directing, and photography</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3ede4"/>
+      <stop offset="50%" stop-color="#e7dbc8"/>
+      <stop offset="100%" stop-color="#d5c7b1"/>
+    </linearGradient>
+    <radialGradient id="seal" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#fff8e8"/>
+      <stop offset="55%" stop-color="#d9b35f"/>
+      <stop offset="100%" stop-color="#9b6d24"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="80" width="1040" height="470" rx="32" fill="rgba(255,255,255,0.28)" stroke="rgba(255,255,255,0.55)" stroke-width="2"/>
+  <circle cx="200" cy="315" r="120" fill="url(#seal)"/> 
+  <text x="200" y="332" text-anchor="middle" font-family="'Playfair Display', 'Times New Roman', serif" font-size="96" font-weight="700" fill="#2a1b0f">M</text>
+  <text x="360" y="290" font-family="'Bai Jamjuree', 'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="#2a1b0f">Mukha | Hub Portfolio</text>
+  <text x="360" y="340" font-family="'Bai Jamjuree', 'Segoe UI', sans-serif" font-size="26" fill="#3a2b1f">Engineering · Directing · Photography</text>
+  <text x="360" y="385" font-family="'Bai Jamjuree', 'Segoe UI', sans-serif" font-size="22" fill="#463426">GitHub · LinkedIn · Reels · Contact</text>
+</svg>
